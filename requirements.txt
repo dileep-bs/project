@@ -1,5 +1,9 @@
-Django==1.11.29
-django-timezone-field==3.1
-djangorestframework==3.9.4
-pkg-resources==0.0.0
-pytz==2019.3
+asgiref==3.2.10
+Django==3.0.7
+django-timezone-field==4.0
+djangorestframework==3.11.0
+gunicorn==20.0.4
+pytz==2020.1
+sqlparse==0.3.1
+white==0.1.2
+whitenoise==5.1.0
